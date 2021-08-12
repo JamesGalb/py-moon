@@ -1,0 +1,7 @@
+*.pyc
+userpw.py
+cachedmoons.json
+cachedtotal.json
+oldmoons.json
+oldtotal.json
+pyticker.log
